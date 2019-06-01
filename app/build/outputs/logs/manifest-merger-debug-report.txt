@@ -1,0 +1,792 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+MERGED from [io.realm:realm-android-library:5.4.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ee8fdb3bfdf677db1226fb0b28e29cf/AndroidManifest.xml:2:1-10:12
+MERGED from [io.realm:realm-android-kotlin-extensions:5.4.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/879f846489b207c60637ce408b99dae6/AndroidManifest.xml:2:1-10:12
+MERGED from [com.android.support:multidex:1.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/36647296c0035c61ec2a43338be7cbd0/AndroidManifest.xml:17:1-22:12
+MERGED from [:sinch-android-rtc:3.12.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f20cbd17278380c88650bd32378aa30f/AndroidManifest.xml:2:1-19:12
+MERGED from [com.android.support:design:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.eyalbira.loadingdots:loading-dots:1.0.2] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/d7820866d3ef5761969c357c9fe2747f/AndroidManifest.xml:2:1-14:12
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:2:1-20:12
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-22:12
+MERGED from [com.vanniktech:emoji-google:0.5.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/AndroidManifest.xml:2:1-8:12
+MERGED from [com.vanniktech:emoji:0.5.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7c4540eeebf13401dde0ff873f59fa7b/AndroidManifest.xml:2:1-8:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c9edd560d5a5b87486d765949e4d27d7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customtabs:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/858a94965fe200555f6071a3fdcb52af/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/381bcd23a45dffd175bf457ba74add1b/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ea7b2118ef39835a603cc90814240e9/AndroidManifest.xml:15:1-25:12
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6ddb8606b437cfed87d2fab0c41ad346/AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:17:1-42:12
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a0625b892df95580a43dbd1451365e71/AndroidManifest.xml:15:1-26:12
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dabb12a81f8c5b2cc31fe85f2e3f5b1e/AndroidManifest.xml:17:1-24:12
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ddba34fb5975f7293d04a648f0767751/AndroidManifest.xml:2:1-11:12
+MERGED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:2:1-23:12
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6b06f483a5a9d3d9426828963a3406b3/AndroidManifest.xml:2:1-12:12
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f5f2e1d998d52033a65ffbde1c721a98/AndroidManifest.xml:2:1-12:12
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c1ae8035201005f6f61b67e0fbd66625/AndroidManifest.xml:2:1-13:12
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e95bb0c1d4d37ec2f5c8f4b2450911b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:17:1-34:12
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/afd5c5fb0b4f7f5b80b2b31c7ec4b42e/AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4d90295f9b0d7d8b3a9e7f16202819c3/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a5e4dd5928aa780c56f16ffc57ed296a/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1d263daec05ba336cb5cdda53a6abcca/AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:2:1-17:12
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6decccf3574409414b81a52b98241eae/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/92ffecf77930ca28efa991a5f91de9de/AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/af3727a0fd96822213bf3136d805e297/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/3b847d01a2fe024e3793c29fd81f4608/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f818e3144325f476794d65ba1150bcc2/AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/070f37f79a5871a2df04773c99c6b986/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7f247c1df767bf3c8aa81bf921b07431/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c9b4f3ff70eb86f124f74a9f06a179c5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/bab60c567e9ad4cc303bb2c82be16047/AndroidManifest.xml:2:1-11:12
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1f1f9e81328d2b3628e5ebcef85cc1f3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c3b208477bf8d424a87178890caca818/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/220c22c362ce354fcb30e77f9d5da96b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f957c03d620d86bba9b211cb8a586140/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f76969aa480468c73e6a31634feee941/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/5ddc826797202edb49c89f90c75e9cb7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/daba21e38e8e09d3ccfa7bfbb2bc1695/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/10c8fd48fdab5aa89f41665917ceb075/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/b042c03b6fad5342905999e675febc0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ad6d37f75915d9dc6ffec3ba071a8afa/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/83974ddc75ebfe7e260fc41b352964ef/AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/9527137b0c35d4ea421da657492e9bf3/AndroidManifest.xml:2:1-7:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1e40d47339fcfac4312b114d035681a5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/5b8fd1c9d20def574d8bda2c1be86cd4/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/2635f43ba83740ef9684276fad1c4f2c/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/078830d19b9dc91b288dc7baf9ac1b8c/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+	package
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:4:5-44
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:1-149:12
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:6:5-80
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:11:5-80
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:11:5-80
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:13:5-80
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:6:22-77
+uses-permission#android.permission.READ_CONTACTS
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:7:5-72
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:7:22-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:8:5-81
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:12:5-81
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:12:5-81
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-81
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:15:5-81
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:8:22-78
+uses-permission#android.permission.CALL_PHONE
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:9:5-69
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:9:22-66
+uses-permission#android.permission.INTERNET
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:10:5-67
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-67
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:14:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ea7b2118ef39835a603cc90814240e9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ea7b2118ef39835a603cc90814240e9/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a0625b892df95580a43dbd1451365e71/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a0625b892df95580a43dbd1451365e71/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.CAMERA
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:11:5-65
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-65
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:11:22-62
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:12:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ea7b2118ef39835a603cc90814240e9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ea7b2118ef39835a603cc90814240e9/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a0625b892df95580a43dbd1451365e71/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a0625b892df95580a43dbd1451365e71/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:12:22-76
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:13:5-71
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:13:22-68
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:14:5-66
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:14:22-63
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:15:5-80
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:15:22-77
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:16:5-75
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:16:22-72
+uses-permission#android.permission.WAKE_LOCK
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:17:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:17:22-65
+uses-permission#android.permission.DISABLE_KEYGUARD
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:18:5-75
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:18:22-72
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:19:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:20:5-81
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:20:22-78
+application
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:22:5-147:19
+MERGED from [:sinch-android-rtc:3.12.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f20cbd17278380c88650bd32378aa30f/AndroidManifest.xml:11:5-17:19
+MERGED from [:sinch-android-rtc:3.12.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f20cbd17278380c88650bd32378aa30f/AndroidManifest.xml:11:5-17:19
+MERGED from [com.eyalbira.loadingdots:loading-dots:1.0.2] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/d7820866d3ef5761969c357c9fe2747f/AndroidManifest.xml:11:5-12:19
+MERGED from [com.eyalbira.loadingdots:loading-dots:1.0.2] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/d7820866d3ef5761969c357c9fe2747f/AndroidManifest.xml:11:5-12:19
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:14:5-18:19
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:14:5-18:19
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-20:19
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/381bcd23a45dffd175bf457ba74add1b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/381bcd23a45dffd175bf457ba74add1b/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6ddb8606b437cfed87d2fab0c41ad346/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6ddb8606b437cfed87d2fab0c41ad346/AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:23:5-40:19
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dabb12a81f8c5b2cc31fe85f2e3f5b1e/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dabb12a81f8c5b2cc31fe85f2e3f5b1e/AndroidManifest.xml:22:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ddba34fb5975f7293d04a648f0767751/AndroidManifest.xml:9:5-20
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ddba34fb5975f7293d04a648f0767751/AndroidManifest.xml:9:5-20
+MERGED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:11:5-21:19
+MERGED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:11:5-21:19
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c1ae8035201005f6f61b67e0fbd66625/AndroidManifest.xml:11:5-20
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c1ae8035201005f6f61b67e0fbd66625/AndroidManifest.xml:11:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e95bb0c1d4d37ec2f5c8f4b2450911b7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e95bb0c1d4d37ec2f5c8f4b2450911b7/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:26:5-32:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4d90295f9b0d7d8b3a9e7f16202819c3/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4d90295f9b0d7d8b3a9e7f16202819c3/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a5e4dd5928aa780c56f16ffc57ed296a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a5e4dd5928aa780c56f16ffc57ed296a/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1d263daec05ba336cb5cdda53a6abcca/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1d263daec05ba336cb5cdda53a6abcca/AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:9:5-15:19
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6decccf3574409414b81a52b98241eae/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6decccf3574409414b81a52b98241eae/AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/92ffecf77930ca28efa991a5f91de9de/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/92ffecf77930ca28efa991a5f91de9de/AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/af3727a0fd96822213bf3136d805e297/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/af3727a0fd96822213bf3136d805e297/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/3b847d01a2fe024e3793c29fd81f4608/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/3b847d01a2fe024e3793c29fd81f4608/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f818e3144325f476794d65ba1150bcc2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f818e3144325f476794d65ba1150bcc2/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/070f37f79a5871a2df04773c99c6b986/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/070f37f79a5871a2df04773c99c6b986/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7f247c1df767bf3c8aa81bf921b07431/AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7f247c1df767bf3c8aa81bf921b07431/AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/bab60c567e9ad4cc303bb2c82be16047/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/bab60c567e9ad4cc303bb2c82be16047/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/83974ddc75ebfe7e260fc41b352964ef/AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/83974ddc75ebfe7e260fc41b352964ef/AndroidManifest.xml:9:5-20
+	android:supportsRtl
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:27:9-35
+	android:label
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:26:9-41
+	android:icon
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:25:9-38
+	android:allowBackup
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:24:9-35
+	android:theme
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:28:9-40
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:23:9-40
+activity#com.mLabsCloseServer.LetsTalk.serverType.CLoseServerInviteCode
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:29:9-79
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:29:19-67
+activity#com.mLabsCloseServer.LetsTalk.serverType.CloseServerReg
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:30:9-63
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:30:19-60
+activity#com.mLabsCloseServer.LetsTalk.activities.MainActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:31:9-35:70
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:34:13-49
+	android:launchMode
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:33:13-43
+	android:windowSoftInputMode
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:35:13-67
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:32:13-52
+service#com.amirarcane.lockscreen.CamerService
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:37:9-74
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-74
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:19:9-74
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:37:18-71
+activity#com.mLabsCloseServer.LetsTalk.activities.settings
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:39:9-42:47
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:41:13-49
+	android:theme
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:42:13-44
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:40:13-48
+activity#com.amirarcane.lockscreen.activity.EnterPinActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:43:9-45:47
+	android:theme
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:45:13-44
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:44:13-79
+activity#com.mLabsCloseServer.LetsTalk.activities.ChatActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:46:9-54:20
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:49:13-49
+	android:parentActivityName
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:48:13-66
+	android:windowSoftInputMode
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:50:13-67
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:47:13-52
+meta-data#android.support.PARENT_ACTIVITY
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:51:13-53:89
+	android:value
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:53:17-86
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:52:17-63
+activity#com.mLabsCloseServer.LetsTalk.activities.ImageViewerActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:55:9-68
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:55:19-65
+service#com.mLabsCloseServer.LetsTalk.services.FirebaseChatService
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:57:9-59:38
+	android:enabled
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:59:13-35
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:58:13-57
+service#com.mLabsCloseServer.LetsTalk.services.MyFirebaseMessagingService
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:60:9-64:19
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:60:18-69
+intent-filter#action:name:com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:61:13-63:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:62:17-78
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:62:25-75
+service#com.mLabsCloseServer.LetsTalk.services.MyFirebaseInstanceIDService
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:65:9-69:19
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:65:18-70
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:66:13-68:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:67:17-80
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:67:25-77
+receiver#com.mLabsCloseServer.LetsTalk.receivers.ConnectivityReceiver
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:71:9-77:20
+	android:enabled
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:73:13-35
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:72:13-59
+intent-filter#action:name:android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:74:13-76:29
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:75:17-79
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:75:25-76
+meta-data#com.google.android.geo.API_KEY
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:86:9-88:71
+	android:value
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:88:13-68
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:87:13-58
+provider#com.mLabsCloseServer.LetsTalk.utils.MyFileProvider
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:90:9-99:20
+	android:grantUriPermissions
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:94:13-47
+	android:authorities
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:92:13-52
+	android:exported
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:93:13-37
+	tools:replace
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:95:13-48
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:91:13-49
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:96:13-98:54
+	android:resource
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:98:17-51
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:97:17-67
+activity#com.mLabsCloseServer.LetsTalk.activities.ContactViewerActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:101:9-104:70
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:103:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:104:13-67
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:102:13-61
+activity#com.mLabsCloseServer.LetsTalk.activities.ChatDetailActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:105:9-108:70
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:107:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:108:13-67
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:106:13-58
+activity#com.mLabsCloseServer.LetsTalk.activities.SignInActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:109:9-113:70
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:111:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:113:13-67
+	android:theme
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:112:13-52
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:110:13-54
+activity#com.mLabsCloseServer.LetsTalk.activities.CallScreenActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:114:9-116:52
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:116:13-49
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:115:13-58
+activity#com.mLabsCloseServer.LetsTalk.activities.IncomingCallScreenActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:117:9-119:52
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:119:13-49
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:118:13-66
+activity#com.mLabsCloseServer.LetsTalk.activities.SplashActivity
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:120:9-131:20
+	android:screenOrientation
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:122:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:124:13-67
+	android:theme
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:123:13-52
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:121:13-54
+intent-filter#action:name:android.intent.action.MAIN+action:name:android.intent.action.VIEW+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:125:13-130:29
+action#android.intent.action.VIEW
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:126:17-69
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:126:25-66
+action#android.intent.action.MAIN
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:127:17-69
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:127:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:129:17-77
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:129:27-74
+receiver#com.mLabsCloseServer.LetsTalk.services.StartActivityOnBootReceiver
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:133:9-138:20
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:133:19-71
+intent-filter#action:name:android.intent.action.BOOT_COMPLETED+action:name:android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:134:13-137:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:135:17-79
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:135:25-76
+action#android.intent.action.QUICKBOOT_POWERON
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:136:17-82
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:136:25-79
+service#com.mLabsCloseServer.LetsTalk.services.FetchMyUsersService
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:140:9-142:40
+	android:exported
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:142:13-37
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:141:13-57
+service#com.mLabsCloseServer.LetsTalk.services.SinchService
+ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:143:9-146:40
+	android:enabled
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:145:13-35
+	android:exported
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:146:13-37
+	android:name
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml:144:13-50
+uses-sdk
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+MERGED from [io.realm:realm-android-library:5.4.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ee8fdb3bfdf677db1226fb0b28e29cf/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-library:5.4.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ee8fdb3bfdf677db1226fb0b28e29cf/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions:5.4.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/879f846489b207c60637ce408b99dae6/AndroidManifest.xml:6:5-8:41
+MERGED from [io.realm:realm-android-kotlin-extensions:5.4.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/879f846489b207c60637ce408b99dae6/AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:multidex:1.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/36647296c0035c61ec2a43338be7cbd0/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:multidex:1.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/36647296c0035c61ec2a43338be7cbd0/AndroidManifest.xml:20:5-43
+MERGED from [:sinch-android-rtc:3.12.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f20cbd17278380c88650bd32378aa30f/AndroidManifest.xml:7:5-9:41
+MERGED from [:sinch-android-rtc:3.12.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f20cbd17278380c88650bd32378aa30f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/AndroidManifest.xml:20:5-44
+MERGED from [com.eyalbira.loadingdots:loading-dots:1.0.2] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/d7820866d3ef5761969c357c9fe2747f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.eyalbira.loadingdots:loading-dots:1.0.2] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/d7820866d3ef5761969c357c9fe2747f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:7:5-9:41
+MERGED from [com.iceteck.silicompressorr:silicompressor:2.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/794734feed69da8ef969fb4ebb96425b/AndroidManifest.xml:7:5-9:41
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.vanniktech:emoji-google:0.5.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/AndroidManifest.xml:6:5-44
+MERGED from [com.vanniktech:emoji-google:0.5.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/AndroidManifest.xml:6:5-44
+MERGED from [com.vanniktech:emoji:0.5.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7c4540eeebf13401dde0ff873f59fa7b/AndroidManifest.xml:6:5-44
+MERGED from [com.vanniktech:emoji:0.5.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7c4540eeebf13401dde0ff873f59fa7b/AndroidManifest.xml:6:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c9edd560d5a5b87486d765949e4d27d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c9edd560d5a5b87486d765949e4d27d7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/858a94965fe200555f6071a3fdcb52af/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/858a94965fe200555f6071a3fdcb52af/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/381bcd23a45dffd175bf457ba74add1b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/381bcd23a45dffd175bf457ba74add1b/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ea7b2118ef39835a603cc90814240e9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-database:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1ea7b2118ef39835a603cc90814240e9/AndroidManifest.xml:18:5-20:41
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6ddb8606b437cfed87d2fab0c41ad346/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:17.3.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6ddb8606b437cfed87d2fab0c41ad346/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:21:5-44
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a0625b892df95580a43dbd1451365e71/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.firebase:firebase-storage:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a0625b892df95580a43dbd1451365e71/AndroidManifest.xml:19:5-21:41
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dabb12a81f8c5b2cc31fe85f2e3f5b1e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dabb12a81f8c5b2cc31fe85f2e3f5b1e/AndroidManifest.xml:20:5-44
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ddba34fb5975f7293d04a648f0767751/AndroidManifest.xml:5:5-7:41
+MERGED from [de.hdodenhof:circleimageview:2.2.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ddba34fb5975f7293d04a648f0767751/AndroidManifest.xml:5:5-7:41
+MERGED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6b06f483a5a9d3d9426828963a3406b3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.chrisbanes:PhotoView:2.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6b06f483a5a9d3d9426828963a3406b3/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f5f2e1d998d52033a65ffbde1c721a98/AndroidManifest.xml:8:5-10:41
+MERGED from [com.mxn.soul:flowingdrawer-core:2.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f5f2e1d998d52033a65ffbde1c721a98/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c1ae8035201005f6f61b67e0fbd66625/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.bumptech.glide:glide:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c1ae8035201005f6f61b67e0fbd66625/AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e95bb0c1d4d37ec2f5c8f4b2450911b7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e95bb0c1d4d37ec2f5c8f4b2450911b7/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/afd5c5fb0b4f7f5b80b2b31c7ec4b42e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-flags:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/afd5c5fb0b4f7f5b80b2b31c7ec4b42e/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4d90295f9b0d7d8b3a9e7f16202819c3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4d90295f9b0d7d8b3a9e7f16202819c3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a5e4dd5928aa780c56f16ffc57ed296a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:16.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a5e4dd5928aa780c56f16ffc57ed296a/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1d263daec05ba336cb5cdda53a6abcca/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1d263daec05ba336cb5cdda53a6abcca/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6decccf3574409414b81a52b98241eae/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6decccf3574409414b81a52b98241eae/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/92ffecf77930ca28efa991a5f91de9de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/92ffecf77930ca28efa991a5f91de9de/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/af3727a0fd96822213bf3136d805e297/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/af3727a0fd96822213bf3136d805e297/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/3b847d01a2fe024e3793c29fd81f4608/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/3b847d01a2fe024e3793c29fd81f4608/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f818e3144325f476794d65ba1150bcc2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f818e3144325f476794d65ba1150bcc2/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/070f37f79a5871a2df04773c99c6b986/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/070f37f79a5871a2df04773c99c6b986/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7f247c1df767bf3c8aa81bf921b07431/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:16.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7f247c1df767bf3c8aa81bf921b07431/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c9b4f3ff70eb86f124f74a9f06a179c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c9b4f3ff70eb86f124f74a9f06a179c5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/bab60c567e9ad4cc303bb2c82be16047/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/bab60c567e9ad4cc303bb2c82be16047/AndroidManifest.xml:5:5-7:41
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1f1f9e81328d2b3628e5ebcef85cc1f3/AndroidManifest.xml:7:5-43
+MERGED from [com.getkeepsafe.relinker:relinker:1.2.2] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1f1f9e81328d2b3628e5ebcef85cc1f3/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c3b208477bf8d424a87178890caca818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/c3b208477bf8d424a87178890caca818/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/220c22c362ce354fcb30e77f9d5da96b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/220c22c362ce354fcb30e77f9d5da96b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f957c03d620d86bba9b211cb8a586140/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f957c03d620d86bba9b211cb8a586140/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f76969aa480468c73e6a31634feee941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f76969aa480468c73e6a31634feee941/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/5ddc826797202edb49c89f90c75e9cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/5ddc826797202edb49c89f90c75e9cb7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/daba21e38e8e09d3ccfa7bfbb2bc1695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/daba21e38e8e09d3ccfa7bfbb2bc1695/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/10c8fd48fdab5aa89f41665917ceb075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/10c8fd48fdab5aa89f41665917ceb075/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/b042c03b6fad5342905999e675febc0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/b042c03b6fad5342905999e675febc0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ad6d37f75915d9dc6ffec3ba071a8afa/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ad6d37f75915d9dc6ffec3ba071a8afa/AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/83974ddc75ebfe7e260fc41b352964ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.7.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/83974ddc75ebfe7e260fc41b352964ef/AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/9527137b0c35d4ea421da657492e9bf3/AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-database-collection:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/9527137b0c35d4ea421da657492e9bf3/AndroidManifest.xml:5:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1e40d47339fcfac4312b114d035681a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/1e40d47339fcfac4312b114d035681a5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/5b8fd1c9d20def574d8bda2c1be86cd4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/5b8fd1c9d20def574d8bda2c1be86cd4/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/2635f43ba83740ef9684276fad1c4f2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/2635f43ba83740ef9684276fad1c4f2c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/078830d19b9dc91b288dc7baf9ac1b8c/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/078830d19b9dc91b288dc7baf9ac1b8c/AndroidManifest.xml:20:5-44
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+		ADDED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/AndroidManifest.xml
+service#com.sinch.android.rtc.internal.client.fcm.InstanceIDTokenService
+ADDED from [:sinch-android-rtc:3.12.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f20cbd17278380c88650bd32378aa30f/AndroidManifest.xml:12:9-16:19
+	android:name
+		ADDED from [:sinch-android-rtc:3.12.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f20cbd17278380c88650bd32378aa30f/AndroidManifest.xml:12:18-97
+uses-permission#android.permission.USE_FINGERPRINT
+ADDED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-74
+	android:name
+		ADDED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:22-71
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:5-78
+	android:name
+		ADDED from [:lock] /Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/library_manifest/debug/AndroidManifest.xml:16:22-75
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6ddb8606b437cfed87d2fab0c41ad346/AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6ddb8606b437cfed87d2fab0c41ad346/AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:17.3.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/6ddb8606b437cfed87d2fab0c41ad346/AndroidManifest.xml:29:13-82
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:24:9-31:50
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:26:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:28:13-44
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:27:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:29:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:30:13-72
+	tools:replace
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:31:13-47
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:25:13-85
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:33:9-39:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:27:9-31:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:34:13-84
+meta-data#com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar
+ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:36:13-38:85
+	android:value
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:38:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/f893fb1239ba72ef6ad722e60117f06d/AndroidManifest.xml:37:17-109
+provider#com.kbeanie.multipicker.utils.AMPFileProvider
+ADDED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:12:9-20:20
+	android:grantUriPermissions
+		ADDED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:16:13-47
+	android:authorities
+		ADDED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:14:13-76
+	android:exported
+		ADDED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:15:13-37
+	android:name
+		ADDED from [com.kbeanie:multipicker:1.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/4efd32ddaf78a25b60d6678280219cd4/AndroidManifest.xml:13:13-73
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:16.0.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/868c291daf4a7a1bae856a6369251f04/AndroidManifest.xml:28:9-32
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:28:13-30:85
+	android:value
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:30:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-measurement-connector-impl:17.0.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/138754cb9cc7db67ab0c4599ece8d865/AndroidManifest.xml:29:17-139
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:26:5-110
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:26:5-110
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.firebase:firebase-analytics-impl:16.2.3] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/8b9e9fbff074998e0a93d4f4eec756c6/AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:16.0.5] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dd6ea7665d675de39515abb9cceaa847/AndroidManifest.xml:49:13-87
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/96d1aa9cba09e1180372220fc1b56f64/AndroidManifest.xml:51:13-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:16.0.1] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:10:9-14:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:12:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:13:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:14:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:16.0.4] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/e061ccdef8479187cfc488045b483a2a/AndroidManifest.xml:11:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7f247c1df767bf3c8aa81bf921b07431/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7f247c1df767bf3c8aa81bf921b07431/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:16.1.0] /Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/7f247c1df767bf3c8aa81bf921b07431/AndroidManifest.xml:24:13-58

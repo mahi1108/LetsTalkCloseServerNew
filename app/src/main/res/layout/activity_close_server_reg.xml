@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".serverType.CloseServerReg">
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textView3"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center_horizontal"
+                android:padding="10sp"
+                android:text="Tell us More"
+                android:textAlignment="center"
+                android:textColor="@color/colorPrimary"
+                android:textSize="35sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="20sp"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/textViewSelectOrg"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="50sp"
+                android:text="Select an Organization"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="22sp" />
+
+            <Spinner
+                android:id="@+id/spinnerOrg"
+                android:layout_width="match_parent"
+                android:layout_height="45sp"
+                android:layout_marginStart="30sp"
+                android:layout_marginTop="5sp"
+                android:layout_marginEnd="30sp"
+                android:padding="5sp" />
+
+            <TextView
+                android:id="@+id/textViewSelectDept"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="30sp"
+                android:text="Select a Department"
+                android:textColor="@color/common_google_signin_btn_text_dark_focused"
+                android:textSize="22sp" />
+
+            <Spinner
+                android:id="@+id/spinnerDept"
+                android:layout_width="match_parent"
+                android:layout_height="45sp"
+                android:layout_marginStart="30sp"
+                android:layout_marginTop="5sp"
+                android:layout_marginEnd="30sp"
+                android:layout_marginBottom="40sp"
+                android:padding="5sp" />
+        </LinearLayout>
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/btnApply"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="75dp"
+        android:layout_centerHorizontal="true"
+        android:background="@color/colorPrimaryDark"
+        android:text="Apply"
+        android:textColor="#FFFFFF" />
+</RelativeLayout>

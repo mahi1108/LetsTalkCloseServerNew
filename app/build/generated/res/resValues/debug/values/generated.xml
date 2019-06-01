@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Automatically generated file. DO NOT MODIFY -->
+
+    <!-- Values from default config. -->
+    <string name="admob_app_id" translatable="false"></string>
+    <string name="admob_banner_id" translatable="false"></string>
+    <string name="app_name" translatable="false">Lets Talk Enterprise</string>
+    <string name="authority" translatable="false">com.mLabsCloseServer.LetsTalk.fileprovider</string>
+
+    <color name="colorAccent">#1A237E</color>
+    <color name="colorPrimary">#03A9F4</color>
+    <color name="colorPrimaryDark">#1976D2</color>
+
+    <string name="geo_api_key" translatable="false"></string>
+    <string name="sinch_app_environment" translatable="false">sandbox.sinch.com</string>
+    <string name="sinch_app_key" translatable="false">0595a9c8-8ccc-40e0-af9a-46c0fc0a9052</string>
+    <string name="sinch_app_secret" translatable="false">oQID2hMmtEyuPJi7OBTwiw==</string>
+    <string name="support_email" translatable="false">developeradel@gmail.com</string>
+
+</resources>

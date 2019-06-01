@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "389395129683",
+    "firebase_url": "https://mlabscloseserverletstalk.firebaseio.com",
+    "project_id": "mlabscloseserverletstalk",
+    "storage_bucket": "mlabscloseserverletstalk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:389395129683:android:61583764c4e535cf",
+        "android_client_info": {
+          "package_name": "com.mLabsCloseServer.LetsTalk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "389395129683-j4ereat2jvj4adt347oai9vi14428sbc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrW1Sj-sEdHoIQ1wk-V83kjvWjmfqGHtw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "389395129683-j4ereat2jvj4adt347oai9vi14428sbc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
