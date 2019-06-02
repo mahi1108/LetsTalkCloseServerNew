@@ -4,6 +4,8 @@ import android.Manifest;
 import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.ActivityOptions;
+import android.app.AlertDialog;
+import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
 import android.os.Build;
@@ -33,6 +35,11 @@ import android.widget.Toast;
 import com.amirarcane.lockscreen.activity.EnterPinActivity;
 import com.bumptech.glide.Glide;
 import com.bumptech.glide.request.RequestOptions;
+import com.google.firebase.database.DataSnapshot;
+import com.google.firebase.database.DatabaseError;
+import com.google.firebase.database.DatabaseReference;
+import com.google.firebase.database.FirebaseDatabase;
+import com.google.firebase.database.ValueEventListener;
 import com.mLabsCloseServer.LetsTalk.models.User2;
 import com.mLabsCloseServer.LetsTalk.utils.SharedPreferenceHelper;
 import com.google.android.gms.tasks.OnCompleteListener;
@@ -70,6 +77,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 import java.util.Comparator;
 import java.util.HashMap;
+import java.util.Iterator;
 import java.util.Map;
 
 import io.realm.RealmResults;
@@ -105,6 +113,8 @@ public class MainActivity extends BaseActivity implements HomeIneractor, ChatIte
     private ArrayList<Message> messageForwardList = new ArrayList<>();
     private UserSelectDialogFragment userSelectDialogFragment;
     private ViewPagerAdapter adapter;
+    private  boolean isAuthenticated = false;
+    private boolean isAdmin = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -146,6 +156,65 @@ public class MainActivity extends BaseActivity implements HomeIneractor, ChatIte
 
         //markOnline(true);
         updateFcmToken();
+
+        checkAuthenticatedOrNot();
+    }
+
+    public static String global_organization_name  = "";
+
+    private  void checkAuthenticatedOrNot()
+    {
+        Log.i("lets_talk","******"+userMe.getId()+"*******");
+
+        FirebaseDatabase dBase = FirebaseDatabase.getInstance();
+        DatabaseReference dRef = dBase.getReference(Helper.REF_USERS);
+        dRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+
+                Iterable<DataSnapshot> itr_user_ids =  dataSnapshot.getChildren();
+                Iterator<DataSnapshot> it_user_ids = itr_user_ids.iterator();
+                while (it_user_ids.hasNext()){
+
+                    DataSnapshot user_ds = it_user_ids.next();
+                    String user_id = user_ds.getKey();
+
+                    if(user_id.equalsIgnoreCase(userMe.getId())){
+                        Iterable<DataSnapshot> itr_user_id_childs = user_ds.getChildren();
+                        Iterator<DataSnapshot> it_user_id_childs = itr_user_id_childs.iterator();
+
+                        while (it_user_id_childs.hasNext()){
+                            DataSnapshot ds_child_mno =  it_user_id_childs.next();
+                            if(ds_child_mno.getKey().equalsIgnoreCase("authentication")){
+                                isAuthenticated = Boolean.parseBoolean(ds_child_mno.getValue().toString());
+                            }
+
+                            if(ds_child_mno.getKey().equalsIgnoreCase("admin")){
+                                isAdmin = Boolean.parseBoolean(ds_child_mno.getValue().toString());
+                            }
+                        }  // loop will repeat all the child elements of UserId / Mno.
+
+                        if(!isAuthenticated && !isAdmin){
+                            AlertDialog.Builder aDialog = new AlertDialog.Builder(MainActivity.this);
+                            aDialog.setTitle("Message");
+                            aDialog.setMessage("Your Authentication is Pending, Please contact to Admin.");
+                            aDialog.setCancelable(false);
+                            aDialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
+                                @Override
+                                public void onClick(DialogInterface dialog, int which) {
+                                    finish();
+                                }
+                            });
+                            aDialog.show();
+                        }
+                    }
+                }
+            }
+            @Override
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+
+            }
+        });
     }
 
     private void initUi() {

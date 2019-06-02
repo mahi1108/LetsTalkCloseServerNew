@@ -11,6 +11,7 @@ import android.os.Bundle;
 import android.support.v7.widget.AppCompatSpinner;
 import android.text.TextUtils;
 import android.util.Base64;
+import android.util.Log;
 import android.util.Patterns;
 import android.view.View;
 import android.view.WindowManager;
@@ -33,6 +34,7 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.google.firebase.storage.StorageReference;
 import com.mLabsCloseServer.LetsTalk.R;
 import com.mLabsCloseServer.LetsTalk.models.Country;
 import com.mLabsCloseServer.LetsTalk.models.User;
@@ -71,7 +73,7 @@ public class SignInActivity extends AppCompatActivity {
     private Realm rChatDb;
     private  String organization_name = null;
     private  String dept_name = null;
-    private String reg_user_name = null;
+    public static  String reg_user_name = null;
 
 
     @Override
@@ -227,16 +229,14 @@ public class SignInActivity extends AppCompatActivity {
 
     private void login() {
 
-        if(reg_user_name != null) {
-            EditText editText = findViewById(R.id.reg_username_new);
-            if (editText != null) {
+     /*   if(reg_user_name == null) {
+            EditText editText = (EditText)findViewById(R.id.reg_username_new);
                 reg_user_name = editText.getText().toString();
-            }
-        }
+        } */
 
-        Toast.makeText(SignInActivity.this,
+    /*  Toast.makeText(SignInActivity.this,
                 "User Name is : "+reg_user_name,
-                Toast.LENGTH_LONG).show();
+                Toast.LENGTH_LONG).show(); */
 
         authInProgress = true;
         FirebaseDatabase firebaseDatabase = FirebaseDatabase.getInstance();
@@ -278,6 +278,8 @@ public class SignInActivity extends AppCompatActivity {
                 helper.setLoggedInUser(newUser);
                 done(newUser);
                 newUserRef.setValue(newUser);
+
+                deductLicensePoints();
             }
         }).addOnFailureListener(new OnFailureListener() {
             @Override
@@ -286,7 +288,48 @@ public class SignInActivity extends AppCompatActivity {
             }
         });
     }
+    int license_points = 0;
 
+    public void deductLicensePoints()
+    {
+        final String new_organization_name = organization_name.replace(" ","");
+
+        FirebaseDatabase dBase = FirebaseDatabase.getInstance();
+        DatabaseReference sRef = dBase.getReference("organizations/"+new_organization_name+"/license_points");
+        Log.i("lets_talk","DB Ref Path :"+"organizations/"+new_organization_name+"/license_points");
+
+        sRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+
+                Log.i("lets_talk","Key :"+dataSnapshot.getKey());
+
+                Log.i("lets_talk","Value :"+dataSnapshot.getValue());
+
+
+                 license_points = Integer.parseInt(dataSnapshot.getValue().toString());
+
+                Log.i("lets_talk","license_points :"+license_points);
+
+                deductLicensePoints(license_points,new_organization_name);
+            }
+            @Override
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+
+            }
+        });
+
+    }
+
+
+    public void deductLicensePoints(int license_points,String organization_name)
+    {
+        int new_license_points =  license_points-1;
+        FirebaseDatabase dBase = FirebaseDatabase.getInstance();
+        DatabaseReference sRef = dBase.getReference("organizations/"+organization_name+"/license_points");
+       // sRef.setValue("license_points",new_license_points);
+        sRef.setValue(license_points);
+    }
 
     private void back() {
         AlertDialog.Builder builder = new AlertDialog.Builder(this);
@@ -401,13 +444,14 @@ public class SignInActivity extends AppCompatActivity {
 
     public void submit() {
         //Validate and confirm number country codes selected
-
-        if(reg_user_name != null) {
-            EditText editText = findViewById(R.id.reg_username_new);
-            if (editText != null) {
+            if(reg_user_name == null) {
+                EditText editText = (EditText) findViewById(R.id.reg_username_new);
                 reg_user_name = editText.getText().toString();
             }
-        }
+
+     /*   Toast.makeText(SignInActivity.this,
+                "User Name is : "+reg_user_name,
+                Toast.LENGTH_LONG).show(); */
 
 
         if (spinnerCountryCodes.getSelectedItem() == null) {

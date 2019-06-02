@@ -5,6 +5,7 @@ import android.content.Intent;
 import android.support.annotation.NonNull;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.util.Log;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
@@ -125,7 +126,7 @@ public class CLoseServerInviteCode extends AppCompatActivity {
                         startActivity(resultIntent);
                         finish();
                     }else{
-                        if(license_points<0){
+                        if(license_points<=0){
                             Toast.makeText(getApplicationContext(),
                                     "License points are exceeded for selected Organization",
                                     Toast.LENGTH_LONG).show();
@@ -225,24 +226,32 @@ public class CLoseServerInviteCode extends AppCompatActivity {
 
                                 String selname = spinnerOrg.getSelectedItem().toString();
 
-                                for(Organization org:organizations.getOrganizations())
-                                {
-                                        if(org.getName().equals(selname)){
-                                         selected_org_code = org.getSecurity_code();
-                                          license_points = org.getLicense_points();
-                                          List<Dept>  depts_list = org.getDepts();
-                                          ArrayList<String> dept_names = new ArrayList<>();
-                                          for(Dept dep:depts_list){
-                                              dept_names.add(dep.getName());
-                                          }
+                                Log.i("lets_talk", "selname :" + selname);
 
-                                          ArrayAdapter<String> dept_adapter = new ArrayAdapter<String>(
-                                                  CLoseServerInviteCode.this,
-                                                  android.R.layout.simple_list_item_single_choice,dept_names);
+                                if(selname != null ) {
+                                    for (Organization org : organizations.getOrganizations()) {
+                                        Log.i("lets_talk", "orgName:" + org.getName());
+                                        if ( org.getName()!=null && org.getName().equals(selname)) {
+                                            selected_org_code = org.getSecurity_code();
+                                            license_points = org.getLicense_points();
+                                            Log.i("lets_talk", "license_points:" + license_points);
+                                            List<Dept> depts_list = org.getDepts();
+                                            ArrayList<String> dept_names = new ArrayList<>();
+                                            for (Dept dep : depts_list) {
+                                                dept_names.add(dep.getName());
+                                            }
+
+                                            ArrayAdapter<String> dept_adapter = new ArrayAdapter<String>(
+                                                    CLoseServerInviteCode.this,
+                                                    android.R.layout.simple_list_item_single_choice, dept_names);
                                             spinnerDept.setAdapter(dept_adapter);
 
+
+
                                         }
-                                   }
+                                    }
+                                }
+
                               }
 
                             @Override
@@ -258,6 +267,7 @@ public class CLoseServerInviteCode extends AppCompatActivity {
                     }
                 });
         }
+
 
     private void loadDept(String orgName) {
 
