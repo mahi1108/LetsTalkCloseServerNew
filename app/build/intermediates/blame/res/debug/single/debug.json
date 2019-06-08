@@ -36,24 +36,24 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f314.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3fd_200d_1f3eb.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3fd_200d_1f3eb.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_done_all_black.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_done_all_black.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_statusdotgreen.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/statusdotgreen.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_done_all_black.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_done_all_black.png"
-    },
-    {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_inchatattachment.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-mdpi/inchatattachment.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3fd_200d_1f3eb.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3fd_200d_1f3eb.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f926_200d_2640_fe0f.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f926_200d_2640_fe0f.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_inchatattachment.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-mdpi/inchatattachment.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f30b.png.flat",
@@ -200,20 +200,20 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4d5.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_call_received_24dp.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_call_received_24dp.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f646_1f3fb.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f646_1f3fb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_description.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-ldpi/description.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_call_received_24dp.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_call_received_24dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2195.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2195.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_description.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-ldpi/description.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f193.png.flat",
@@ -264,24 +264,24 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_26b1.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_attachment_pdf.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/attachment_pdf.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f488.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f488.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_attachment_pdf.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/attachment_pdf.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f401.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f401.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3fe_200d_1f3a4.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3fe_200d_1f3a4.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f627.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f627.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3fe_200d_1f3a4.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3fe_200d_1f3a4.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_play_circle_outline.xml.flat",
@@ -332,12 +332,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1f5_1f1f7.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_insert.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_insert.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_200d_1f467.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_200d_1f467.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_insert.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_insert.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_abc_list_menu_item_radio.xml.flat",
@@ -368,12 +368,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/layout/item_message_typing.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4db.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4db.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_abc_action_menu_item_layout.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4db.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4db.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_avatarbuttonselected.png.flat",
@@ -412,12 +412,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xhdpi/tellusmore.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1ee_1f1f9.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1ee_1f1f9.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxxhdpi-v4/abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1ee_1f1f9.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1ee_1f1f9.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f47f.png.flat",
@@ -448,32 +448,32 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_200d_1f467_200d_1f467.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_attachment_audio.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xhdpi/attachment_audio.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4f3.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4f3.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64a.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64a.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_attachment_audio.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xhdpi/attachment_audio.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3e7.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3e7.png"
     },
     {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64a.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64a.png"
+    },
+    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/font_ubuntu_regular.ttf.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/font/ubuntu_regular.ttf"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1fb_1f1fa.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1fb_1f1fa.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-mdpi-v4/abc_scrubber_control_off_mtrl_alpha.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_nextbutton.png.flat",
@@ -520,12 +520,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f485_1f3fb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_23e9.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_23e9.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_delete_24dp.xml.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_delete_24dp.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_23e9.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_23e9.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_264c.png.flat",
@@ -572,12 +572,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f58a.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_vertical_gradient.xml.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable/vertical_gradient.xml"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1f2_1f1fa.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1f2_1f1fa.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_vertical_gradient.xml.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable/vertical_gradient.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f98a.png.flat",
@@ -588,16 +588,16 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f618.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_downloadimg.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/downloadimg.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6b5_1f3fd_200d_2640_fe0f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6b5_1f3fd_200d_2640_fe0f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4cb.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4cb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6b5_1f3fd_200d_2640_fe0f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6b5_1f3fd_200d_2640_fe0f.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_downloadimg.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/downloadimg.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_264d.png.flat",
@@ -696,12 +696,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1f2_1f1f4.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4c5.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4c5.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_phone.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/ic_phone.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4c5.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4c5.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
@@ -856,12 +856,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f596_1f3fc.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2708.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2708.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4a9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4a9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2708.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2708.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_attachmenticon.png.flat",
@@ -912,12 +912,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_keyboard_arrow_left_white_24dp.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-hdpi_username.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-hdpi/username.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_launcher_background.xml.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-hdpi_username.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-hdpi/username.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_messagebutton.png.flat",
@@ -960,24 +960,24 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3fc_200d_1f3ed.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_insert.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_insert.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f956.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f956.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_attachmenticon.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/attachmenticon.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f956.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f956.png"
-    },
-    {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6b5_1f3fd.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6b5_1f3fd.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_insert.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_insert.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f57a.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f57a.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6b5_1f3fd.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6b5_1f3fd.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f608.png.flat",
@@ -1008,12 +1008,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxxhdpi-v4/abc_text_select_handle_left_mtrl_dark.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64e_1f3fd_200d_2642_fe0f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64e_1f3fd_200d_2642_fe0f.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-mdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64e_1f3fd_200d_2642_fe0f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64e_1f3fd_200d_2642_fe0f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_23ee.png.flat",
@@ -1076,12 +1076,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_264b.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f192.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f192.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_notification_template_big_media_narrow_custom.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/b042c03b6fad5342905999e675febc0a/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f192.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f192.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_attachment_image.png.flat",
@@ -1100,12 +1100,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-mdpi/chatbuttonselected.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_delete_24dp.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_delete_24dp.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f958.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f958.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_delete_24dp.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_delete_24dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1f9_1f1f3.png.flat",
@@ -1116,12 +1116,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4ad.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_account_box.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-hdpi/ic_account_box.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_1f3ff_200d_1f3a8.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3ff_200d_1f3a8.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_account_box.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-hdpi/ic_account_box.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1ed_1f1f3.png.flat",
@@ -1224,12 +1224,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3d8.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_setting_profile_round.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-xxxhdpi/ic_setting_profile_round.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64e_1f3ff_200d_2642_fe0f.png.flat",
@@ -1240,24 +1240,24 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/layout/abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_chatbuttonselected.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-ldpi/chatbuttonselected.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_power_settings.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-ldpi/ic_power_settings.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_chatbuttonselected.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-ldpi/chatbuttonselected.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_thumb_up_dark_24dp.xml.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_thumb_up_dark_24dp.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_waiting.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_waiting.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/res/drawable-xhdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/color_abc_primary_text_disable_only_material_dark.xml.flat",
@@ -1272,24 +1272,24 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/userpiccircle.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f48e.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f48e.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-ldrtl-xhdpi-v17/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f63b.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f63b.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f636.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f636.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_200d_1f467_200d_1f467.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_200d_1f467_200d_1f467.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f636.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f636.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -1308,36 +1308,36 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxxhdpi/seen.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_close_white_24dp.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_close_white_24dp.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_call_end_black_24dp.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_call_end_black_24dp.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_close_white_24dp.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_close_white_24dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_audiotrack_24dp.xml.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_audiotrack_24dp.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f635.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f635.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-mdpi-v4/abc_textfield_search_default_mtrl_alpha.9.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f57a_1f3fb.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f57a_1f3fb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6b0.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6b0.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-hdpi-v4/abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6b0.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6b0.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3fd_200d_1f4bc.png.flat",
@@ -1352,12 +1352,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4da.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_200d_1f33e.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_200d_1f33e.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1ee_1f1e9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1ee_1f1e9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_200d_1f33e.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_200d_1f33e.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4aa_1f3ff.png.flat",
@@ -1384,12 +1384,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/font/roboto_light.ttf"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3df.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3df.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_call_missed_24dp.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_call_missed_24dp.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3df.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3df.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3d9.png.flat",
@@ -1492,12 +1492,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f54d.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_person_low.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xhdpi/ic_person_low.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6b1.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6b1.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_person_low.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xhdpi/ic_person_low.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_add_circle.png.flat",
@@ -1588,12 +1588,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1f4_1f1f2.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3fd_200d_1f4bb.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3fd_200d_1f4bb.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-mdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3fd_200d_1f4bb.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3fd_200d_1f4bb.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f57a_1f3fc.png.flat",
@@ -1648,32 +1648,32 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f559.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f487_1f3fb.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f487_1f3fb.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_light_focused.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f487_1f3fb.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f487_1f3fb.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_restore.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-xxhdpi/ic_restore.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_message_24dp.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_message_24dp.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_abc_list_selector_holo_dark.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable/abc_list_selector_holo_dark.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6a3_1f3fe.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6a3_1f3fe.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_message_24dp.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_message_24dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f934_1f3ff.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f934_1f3ff.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6a3_1f3fe.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6a3_1f3fe.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_power_settings_new_dark_24dp.png.flat",
@@ -1716,12 +1716,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4c4.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f5c4.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f5c4.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxhdpi-v4/abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f5c4.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f5c4.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_logo.png.flat",
@@ -1752,12 +1752,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/layout/activity_settings.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4d3.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4d3.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f45f.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f45f.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4d3.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4d3.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3fd_200d_1f52c.png.flat",
@@ -1772,12 +1772,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f475_1f3fb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_power_settings.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/ic_power_settings.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f573.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f573.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_power_settings.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/ic_power_settings.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_item_contact_number.xml.flat",
@@ -1844,16 +1844,16 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_phone_dark_gray_24dp.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64d_1f3fc.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64d_1f3fc.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f191.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f191.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f447_1f3fc.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f447_1f3fc.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f191.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f191.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64d_1f3fc.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64d_1f3fc.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_done_black.png.flat",
@@ -1868,12 +1868,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/dabb12a81f8c5b2cc31fe85f2e3f5b1e/res/drawable-mdpi-v4/powered_by_google_dark.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f430.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f430.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_newgroupbuttonselected.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/newgroupbuttonselected.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f430.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f430.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_fragment_conference_call_selection_header.xml.flat",
@@ -1900,12 +1900,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3ff_200d_1f680.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_circle.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add_circle.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xhdpi-v4/abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_add_circle.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add_circle.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f325.png.flat",
@@ -1952,12 +1952,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6c0_1f3fc.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_muteoffbutton.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/muteoffbutton.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4c8.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4c8.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_muteoffbutton.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/muteoffbutton.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
@@ -2004,12 +2004,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/circlewhiteborder.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3d7.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3d7.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f495.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f495.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3d7.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3d7.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_002a_fe0f_20e3.png.flat",
@@ -2052,12 +2052,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1ee_1f1e8.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3eb.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3eb.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3f8.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3f8.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3eb.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3eb.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
@@ -2080,16 +2080,16 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_headset.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/layout/design_navigation_item_header.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f360.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f360.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_design_navigation_item_header.xml.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/layout/design_navigation_item_header.xml"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_icon_light_normal_background.9.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/res/drawable-mdpi-v4/common_google_signin_btn_icon_light_normal_background.9.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3e6.png.flat",
@@ -2100,28 +2100,28 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4dc.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/color_abc_secondary_text_material_dark.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/color/abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/animator-v21_design_appbar_state_list_animator.xml.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/animator-v21/design_appbar_state_list_animator.xml"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f44e_1f3fe.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f44e_1f3fe.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64b_1f3ff.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64b_1f3ff.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/animator-v21_design_appbar_state_list_animator.xml.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/animator-v21/design_appbar_state_list_animator.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64b_1f3ff.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64b_1f3ff.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_1f3ff_200d_1f4bc.png.flat",
@@ -2132,12 +2132,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_contact_perm.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_call_selected_round.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-xxxhdpi/ic_call_selected_round.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout-sw600dp-v13_design_layout_snackbar.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/layout-sw600dp-v13/design_layout_snackbar.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_call_selected_round.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-xxxhdpi/ic_call_selected_round.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f389.png.flat",
@@ -2168,12 +2168,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f47c_1f3fd.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f485_1f3fe.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f485_1f3fe.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4d7.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4d7.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f485_1f3fe.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f485_1f3fe.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_powered_by_google_light.png.flat",
@@ -2252,28 +2252,28 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/res/drawable-hdpi-v4/common_full_open_on_phone.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_270a_1f3fb.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_270a_1f3fb.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_phone.xml.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_phone.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f538.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f538.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_270a_1f3fb.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_270a_1f3fb.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_270d_1f3fb.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_270d_1f3fb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1ee_1f1f7.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1ee_1f1f7.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f538.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f538.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_ic_done_black.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_done_black.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1ee_1f1f7.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1ee_1f1f7.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_fragment_confirmation.xml.flat",
@@ -2284,12 +2284,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3fb_200d_1f3a8.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f473_1f3fd.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f473_1f3fd.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_ic_keyboard_arrow_right_white_24dp.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-hdpi/ic_keyboard_arrow_right_white_24dp.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f473_1f3fd.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f473_1f3fd.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
@@ -2308,12 +2308,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f528.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_speakeroffbutton.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-mdpi/speakeroffbutton.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4f1.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4f1.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_speakeroffbutton.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-mdpi/speakeroffbutton.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_downloadimg.png.flat",
@@ -2328,20 +2328,20 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_add.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2763.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2763.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_headset.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_headset.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4fa.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4fa.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2763.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2763.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-anydpi-v21_ic_done_black.xml.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_done_black.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4fa.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4fa.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2663.png.flat",
@@ -2364,12 +2364,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/drawable/design_password_eye.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f926_1f3fb_200d_2642_fe0f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f926_1f3fb_200d_2642_fe0f.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3b9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3b9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f926_1f3fb_200d_2642_fe0f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f926_1f3fb_200d_2642_fe0f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f442_1f3ff.png.flat",
@@ -2492,12 +2492,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f646_1f3fb_200d_2642_fe0f.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_1f3fd_200d_1f373.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3fd_200d_1f373.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f93e_1f3fd_200d_2640_fe0f.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f93e_1f3fd_200d_2640_fe0f.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_1f3fd_200d_1f373.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3fd_200d_1f373.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
@@ -2556,12 +2556,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/wait_process.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/layout/design_menu_item_action_area.xml"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_design_menu_item_action_area.xml.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/layout/design_menu_item_action_area.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_about.png.flat",
@@ -2736,12 +2736,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxxhdpi/statusdotgreen.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_200d_1f373.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_200d_1f373.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f981.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f981.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_200d_1f373.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_200d_1f373.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_26f9.png.flat",
@@ -3064,12 +3064,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxhdpi-v4/abc_textfield_default_mtrl_alpha.9.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_userpiccircle.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxxhdpi/userpiccircle.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f926_1f3fb_200d_2640_fe0f.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f926_1f3fb_200d_2640_fe0f.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_userpiccircle.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxxhdpi/userpiccircle.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_insert.png.flat",
@@ -3140,12 +3140,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4e7.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_delete_24dp.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_delete_24dp.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/ad6d37f75915d9dc6ffec3ba071a8afa/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_delete_24dp.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_delete_24dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_avatarbuttonlite.png.flat",
@@ -3200,12 +3200,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_26f9_1f3fb_200d_2640_fe0f.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f238.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f238.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3c9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3c9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f238.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f238.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f918_1f3fb.png.flat",
@@ -3224,12 +3224,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3ff_200d_1f3eb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f302.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f302.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3cc.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3cc.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f302.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f302.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_volume_off_white_24dp.png.flat",
@@ -3248,16 +3248,16 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1e7_1f1fe.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f62c.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f62c.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_splashscreen.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/splashscreen.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3a0.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3a0.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_splashscreen.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/splashscreen.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f62c.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f62c.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_1f3fe_200d_1f692.png.flat",
@@ -3284,12 +3284,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxxhdpi/busytab.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1e7_1f1f7.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1e7_1f1f7.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64f_1f3fe.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64f_1f3fe.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1e7_1f1f7.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1e7_1f1f7.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f450_1f3fe.png.flat",
@@ -3348,24 +3348,24 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxxhdpi-v4/abc_text_select_handle_right_mtrl_light.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2626.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2626.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_270b_1f3ff.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_270b_1f3ff.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2626.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2626.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout-v26_abc_screen_toolbar.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/layout-v26/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_1f3ff_200d_1f3ed.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3ff_200d_1f3ed.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f44b_1f3fb.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f44b_1f3fb.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_1f3ff_200d_1f3ed.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3ff_200d_1f3ed.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/anim_abc_tooltip_enter.xml.flat",
@@ -3444,12 +3444,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-hdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_videocam_white_24dp.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_videocam_white_24dp.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_call_end_black_24dp.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_call_end_black_24dp.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_videocam_white_24dp.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxhdpi/ic_videocam_white_24dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_icons8_protect_filled_100_1.png.flat",
@@ -3544,28 +3544,28 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/layout/item_menu_user.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2744.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2744.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6b5_1f3ff_200d_2640_fe0f.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6b5_1f3ff_200d_2640_fe0f.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_2744.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2744.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_placeholderimageattach.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-mdpi/placeholderimageattach.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_partial_message_status_view.xml.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/layout/partial_message_status_view.xml"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3a8.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3a8.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_26c4.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_26c4.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3a8.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3a8.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_partial_message_status_view.xml.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/layout/partial_message_status_view.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_design_bottom_navigation_item.xml.flat",
@@ -3684,12 +3684,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6e0.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/anim/abc_slide_in_top.xml"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/color_design_tint_password_toggle.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/color/design_tint_password_toggle.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/anim_abc_slide_in_top.xml.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
@@ -3764,12 +3764,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/b042c03b6fad5342905999e675febc0a/res/layout/notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f405.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f405.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f48a.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f48a.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f405.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f405.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f476_1f3ff.png.flat",
@@ -3832,12 +3832,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4ed.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f575_1f3fd_200d_2640_fe0f.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f575_1f3fd_200d_2640_fe0f.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxhdpi-v4/abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f43f.png.flat",
@@ -4016,20 +4016,20 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3fb_200d_1f393.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f473_1f3fb.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f473_1f3fb.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f944.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f944.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4d8.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4d8.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f473_1f3fb.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f473_1f3fb.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f38e.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f38e.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f4d8.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4d8.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f52d.png.flat",
@@ -4140,12 +4140,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3fb_200d_1f4bb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f47c_1f3fb.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f47c_1f3fb.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_0033_fe0f_20e3.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_0033_fe0f_20e3.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f47c_1f3fb.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f47c_1f3fb.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f502.png.flat",
@@ -4180,12 +4180,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xxxhdpi/ic_location.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6cf.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6cf.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxxhdpi_newgroupbuttonselected.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxxhdpi/newgroupbuttonselected.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6cf.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6cf.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_25c0.png.flat",
@@ -4200,12 +4200,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-xxhdpi/ic_setting_profile_round.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6a4.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6a4.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-mdpi_ic_add_circle.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-mdpi/ic_add_circle.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f6a4.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f6a4.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_ic_fingerprint.png.flat",
@@ -4248,24 +4248,24 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f64b_1f3fc.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_attachment_audio.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/attachment_audio.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f56f.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f56f.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_attachment_audio.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/attachment_audio.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f387.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f387.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable/abc_cab_background_top_material.xml"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f5e3.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f5e3.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_abc_cab_background_top_material.xml.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable/abc_cab_background_top_material.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
@@ -4308,16 +4308,16 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3fd_200d_1f3eb.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f93e_1f3fe_200d_2642_fe0f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f93e_1f3fe_200d_2642_fe0f.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f954.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f954.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3ae.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3ae.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f954.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f954.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f93e_1f3fe_200d_2642_fe0f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f93e_1f3fe_200d_2642_fe0f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f64b_1f3fd.png.flat",
@@ -4460,12 +4460,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f473_1f3fc.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f487_1f3fe_200d_2642_fe0f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f487_1f3fe_200d_2642_fe0f.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f482_1f3fc.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f482_1f3fc.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f487_1f3fe_200d_2642_fe0f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f487_1f3fe_200d_2642_fe0f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
@@ -4488,12 +4488,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/mipmap-xxxhdpi/username_round.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_21a9.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_21a9.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_call_green_24dp.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_call_green_24dp.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_21a9.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_21a9.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_assignment_dark_24dp.png.flat",
@@ -4564,12 +4564,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/line.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_1f3ff_200d_1f680.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3ff_200d_1f680.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f477_1f3fd.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f477_1f3fd.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f469_1f3ff_200d_1f680.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f469_1f3ff_200d_1f680.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_speakeroffbutton.png.flat",
@@ -4588,12 +4588,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_done_white.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_circlewhiteborder.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-ldpi/circlewhiteborder.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxhdpi-v4/abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_circlewhiteborder.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-ldpi/circlewhiteborder.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1f0_1f1ea.png.flat",
@@ -4604,12 +4604,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f4ab.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1f2_1f1fe.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1f2_1f1fe.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f40c.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f40c.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f1f2_1f1fe.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1f2_1f1fe.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f458.png.flat",
@@ -4620,12 +4620,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1ed_1f1f7.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_awaytab.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xhdpi/awaytab.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f483.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f483.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_awaytab.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xhdpi/awaytab.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f44d_1f3fd.png.flat",
@@ -4648,12 +4648,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1f8_1f1f8.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_200d_1f393.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_200d_1f393.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi_userpiccircle.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-hdpi/userpiccircle.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_200d_1f393.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_200d_1f393.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f369.png.flat",
@@ -4680,20 +4680,20 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/lock/build/intermediates/packaged_res/debug/layout-v23/activity_enterpin.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f575_1f3fe_200d_2640_fe0f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f575_1f3fe_200d_2640_fe0f.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-ldpi_ic_mic_white_24dp.png.flat",
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-ldpi/ic_mic_white_24dp.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f471_1f3ff.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f471_1f3ff.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f575_1f3fe_200d_2640_fe0f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f575_1f3fe_200d_2640_fe0f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-hdpi-v4/abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f471_1f3ff.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f471_1f3ff.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f45c.png.flat",
@@ -4724,12 +4724,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f468_1f3ff.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/layout/design_layout_tab_text.xml"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f615.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f615.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_design_layout_tab_text.xml.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/da063167d0fb51c8aa1a25b055676da1/res/layout/design_layout_tab_text.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_ic_keyboard_arrow_left_white_24dp.png.flat",
@@ -4756,16 +4756,16 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-anydpi-v21/ic_message_24dp.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_26f9_1f3ff_200d_2640_fe0f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_26f9_1f3ff_200d_2640_fe0f.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_insert_64dp.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_insert_64dp.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f3bc.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f3bc.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xhdpi_ic_insert_64dp.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/generated/res/pngs/debug/drawable-xhdpi/ic_insert_64dp.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_26f9_1f3ff_200d_2640_fe0f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_26f9_1f3ff_200d_2640_fe0f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f468_200d_1f680.png.flat",
@@ -4900,16 +4900,16 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/layout/activity_sign_in_1.xml"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f467_1f3fe.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f467_1f3fe.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f93e_1f3fd_200d_2642_fe0f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f93e_1f3fd_200d_2642_fe0f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f44c_1f3fe.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f44c_1f3fe.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f93e_1f3fd_200d_2642_fe0f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f93e_1f3fd_200d_2642_fe0f.png"
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f467_1f3fe.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f467_1f3fe.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_power_settings.png.flat",
@@ -4992,12 +4992,12 @@
         "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xhdpi/endcallbutton.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f337.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f337.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_icon_dark_focused.xml.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/a9a3b80b91a62ff0d11a40bdaf08dccb/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f429.png.flat",
@@ -5012,12 +5012,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f91e_1f3fc.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_userpiccircle300x300.png.flat",
-        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/userpiccircle300x300.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-xxhdpi-v4/abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-xxhdpi_userpiccircle300x300.png.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/drawable-xxhdpi/userpiccircle300x300.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f344.png.flat",
@@ -5064,12 +5064,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f1f5_1f1e6.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f51f.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f51f.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f251.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f251.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f51f.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f51f.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f39b.png.flat",
@@ -5088,12 +5088,12 @@
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_2702.png"
     },
     {
-        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f91e_1f3fb.png.flat",
-        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f91e_1f3fb.png"
-    },
-    {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/color-v23_abc_tint_btn_checkable.xml.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f91e_1f3fb.png.flat",
+        "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/fb8c3407eb8e9b53d22fa6afdb0b16ab/res/drawable-nodpi-v4/emoji_google_1f91e_1f3fb.png"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable_common_google_signin_btn_text_dark.xml.flat",
@@ -9370,6 +9370,10 @@
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "/Users/maheshthippala/.gradle/caches/transforms-2/files-2.1/24ee8c0ceb505309e38b13f64dec1524/res/drawable-hdpi-v4/abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/layout_admin_fragment.xml.flat",
+        "source": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/src/main/res/layout/admin_fragment.xml"
     },
     {
         "merged": "/Users/maheshthippala/Downloads/LetsTalkCloseServer 2/app/build/intermediates/res/merged/debug/drawable-nodpi-v4_emoji_google_1f471_1f3fe_200d_2640_fe0f.png.flat",

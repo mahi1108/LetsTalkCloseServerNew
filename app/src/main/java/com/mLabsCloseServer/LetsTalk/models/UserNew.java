@@ -15,6 +15,24 @@ public class UserNew {
     private String status;
     private boolean typing;
     private String person_name;
+    private  String orgName;
+    private String contactName;
+
+    public String getContactName() {
+        return contactName;
+    }
+
+    public void setContactName(String contactName) {
+        this.contactName = contactName;
+    }
+
+    public String getOrgName() {
+        return orgName;
+    }
+
+    public void setOrgName(String orgName) {
+        this.orgName = orgName;
+    }
 
     public String getPerson_name() {
         return person_name;

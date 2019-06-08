@@ -23,5 +23,9 @@ class UsersAdapter(var mainActivity: MainActivity, var users_data: ArrayList<Use
     override fun onBindViewHolder(holder: UsersHolder, position: Int) {
         holder.rec_username?.text = users_data?.get(position)?.userNew?.person_name
         holder.txtDept?.text =  users_data?.get(position)?.userNew?.dept
+
+
+
+
     }
 }

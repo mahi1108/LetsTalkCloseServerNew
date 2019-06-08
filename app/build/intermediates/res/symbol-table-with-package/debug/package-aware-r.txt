@@ -3424,12 +3424,12 @@ id browser_actions_menu_item_text
 id browser_actions_menu_items
 id browser_actions_menu_view
 id btnAcceptReq
-id btnAdmintAcc
 id btnApply
 id btnRejectReq
 id button
 id buttonImage
 id buttonPanel
+id cView
 id cabContainer
 id callAudio
 id callDuration
@@ -3448,6 +3448,7 @@ id chatToolbar
 id chatToolbarContent
 id checkbox
 id chronometer
+id circle_view
 id clip_horizontal
 id clip_vertical
 id close
@@ -3555,6 +3556,7 @@ id localVideo
 id locationImage
 id logo
 id logout
+id main_frame
 id masked
 id mediaImage
 id mediaSummary
@@ -3627,6 +3629,7 @@ id right
 id right_icon
 id right_side
 id rootView
+id rview
 id satellite
 id save_image_matrix
 id save_non_transition_alpha
@@ -3810,6 +3813,7 @@ layout activity_splash
 layout activity_user_detail
 layout adapter_item_log_call
 layout adapter_item_user
+layout admin_fragment
 layout browser_actions_context_menu_page
 layout browser_actions_context_menu_row
 layout content_main

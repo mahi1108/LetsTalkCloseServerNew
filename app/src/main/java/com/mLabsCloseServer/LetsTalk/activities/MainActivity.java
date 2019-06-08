@@ -5,6 +5,7 @@ import android.annotation.SuppressLint;
 import android.app.Activity;
 import android.app.ActivityOptions;
 import android.app.AlertDialog;
+import android.app.FragmentTransaction;
 import android.content.DialogInterface;
 import android.content.Intent;
 import android.content.pm.PackageManager;
@@ -40,7 +41,9 @@ import com.google.firebase.database.DatabaseError;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
 import com.google.firebase.database.ValueEventListener;
+import com.mLabsCloseServer.LetsTalk.fragments.AdminUsersFragment;
 import com.mLabsCloseServer.LetsTalk.models.User2;
+import com.mLabsCloseServer.LetsTalk.models.UserNew;
 import com.mLabsCloseServer.LetsTalk.utils.SharedPreferenceHelper;
 import com.google.android.gms.tasks.OnCompleteListener;
 import com.google.android.gms.tasks.Task;
@@ -192,6 +195,12 @@ public class MainActivity extends BaseActivity implements HomeIneractor, ChatIte
                             if(ds_child_mno.getKey().equalsIgnoreCase("admin")){
                                 isAdmin = Boolean.parseBoolean(ds_child_mno.getValue().toString());
                             }
+
+                            if(ds_child_mno.getKey().equalsIgnoreCase("orgName")){
+                                global_organization_name = ds_child_mno.getValue().toString();
+                            }
+
+
                         }  // loop will repeat all the child elements of UserId / Mno.
 
                         if(!isAuthenticated && !isAdmin){
@@ -206,6 +215,11 @@ public class MainActivity extends BaseActivity implements HomeIneractor, ChatIte
                                 }
                             });
                             aDialog.show();
+                        }else{
+
+                            if(isAdmin && isAuthenticated){
+                                    getListOfNonAuthenticatedUsers(global_organization_name);
+                            }
                         }
                     }
                 }
@@ -216,6 +230,135 @@ public class MainActivity extends BaseActivity implements HomeIneractor, ChatIte
             }
         });
     }
+
+    private void getListOfNonAuthenticatedUsers(final String orgName)
+    {
+
+        Log.i("lets_talk","******"+userMe.getId()+"*******");
+
+        FirebaseDatabase dBase = FirebaseDatabase.getInstance();
+        DatabaseReference dRef = dBase.getReference(Helper.REF_USERS);
+        dRef.addValueEventListener(new ValueEventListener() {
+            @Override
+            public void onDataChange(@NonNull DataSnapshot dataSnapshot) {
+
+                ArrayList<UserNew> list = new ArrayList<>();
+
+                Iterable<DataSnapshot> itr_user_ids =  dataSnapshot.getChildren();
+                Iterator<DataSnapshot> it_user_ids = itr_user_ids.iterator();
+                while (it_user_ids.hasNext()){
+
+                    UserNew uNew = new UserNew();
+
+                    DataSnapshot user_ds = it_user_ids.next();
+                    String user_id = user_ds.getKey();
+
+                        Iterable<DataSnapshot> itr_user_id_childs = user_ds.getChildren();
+                        Iterator<DataSnapshot> it_user_id_childs = itr_user_id_childs.iterator();
+
+                        while (it_user_id_childs.hasNext()){
+                            DataSnapshot ds_child_mno =  it_user_id_childs.next();
+
+                            Log.i("lets_talk",
+                                    "Key : "+ds_child_mno.getKey()+"\n" +
+                                            "Value : "+ds_child_mno.getValue());
+
+                            switch (ds_child_mno.getKey()){
+                                case "admin":
+                                    uNew.setAdmin(Boolean.parseBoolean(
+                                                        ds_child_mno.getValue().toString()));
+                                    break;
+                                case "authentication":
+                                    uNew.setAuthentication(Boolean.parseBoolean(
+                                            ds_child_mno.getValue().toString()));
+                                    break;
+                                case "contactName":
+                                    uNew.setContactName(
+                                            ds_child_mno.getValue().toString());
+                                    break;
+                                case "dept":
+                                    uNew.setDept(ds_child_mno.getValue().toString());
+                                    break;
+                                case "id":
+                                    uNew.setId(ds_child_mno.getValue().toString());
+                                    break;
+                                case "image":
+                                    uNew.setImage(
+                                            ds_child_mno.getValue().toString());
+                                    break;
+                                case "inviteAble":
+                                    uNew.setInviteAble(Boolean.parseBoolean(
+                                            ds_child_mno.getValue().toString()));
+                                    break;
+                                case "name":
+                                    uNew.setName(
+                                            ds_child_mno.getValue().toString());
+                                    break;
+                                case "nameToDisplay":
+                                    uNew.setNameToDisplay(
+                                            ds_child_mno.getValue().toString());
+                                    break;
+                                case "online":
+                                    uNew.setOnline(Boolean.parseBoolean(
+                                            ds_child_mno.getValue().toString()));
+                                    break;
+                                case "orgName":
+                                    uNew.setOrgName(
+                                            ds_child_mno.getValue().toString());
+                                    break;
+                                case "selected":
+                                    uNew.setSelected(Boolean.parseBoolean(
+                                            ds_child_mno.getValue().toString()));
+                                    break;
+                                case "status":
+                                    uNew.setStatus(ds_child_mno.getValue().toString());
+                                    break;
+                                case "typing":
+                                    uNew.setTyping(Boolean.parseBoolean(
+                                            ds_child_mno.getValue().toString()));
+                                    break;
+                                default:
+                                    Log.i("lets_talk","Default Block Executed...");
+                                    break;
+                            }
+                        }  // loop will repeat all the child elements of UserId / Mno.
+
+                        Log.i("lets_talk","uNew Object : "+uNew);
+                        if(uNew != null) {
+                            Log.i("lets_talk", "Org Name : " +
+                                    uNew.getOrgName());
+                        }
+
+                        if(uNew.getOrgName().equalsIgnoreCase(orgName) &&
+                                !uNew.isAdmin() &&
+                                !uNew.isAuthentication()){
+                            list.add(uNew);
+                        }
+                }
+
+                if(list.size() > 0){
+                    setNonAuthUsersDataOnRView(list);
+                }
+
+            }
+            @Override
+            public void onCancelled(@NonNull DatabaseError databaseError) {
+
+            }
+        });
+    }
+
+    public  void setNonAuthUsersDataOnRView(ArrayList<UserNew> list)
+    {
+        AdminUsersFragment.users_list = list;
+
+        android.app.FragmentManager fManager = getFragmentManager();
+        FragmentTransaction  tx = fManager.beginTransaction();
+        tx.replace(R.id.main_frame,new AdminUsersFragment()) ;
+        tx.addToBackStack("true");
+        tx.commit();
+    }
+
 
     private void initUi() {
         usersImage = findViewById(R.id.users_image);
